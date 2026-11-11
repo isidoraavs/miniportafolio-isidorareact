@@ -2,7 +2,7 @@
 
 ## 1. IA usada
 
-Utilicé ChatGPT para revisar las instrucciones y la rúbrica, ordenar mis datos y preparar este mini portafolio. Se usó mi portafolio anterior como apoyo para el proyecto nuevo. La ayuda incluyó generación, revisión, estilos y documentación; no se limitó a dudas puntuales.
+Utilicé ChatGPT para revisar las instrucciones y la rúbrica, ordenar mis datos y preparar este mini portafolio. Se usó mi portafolio anterior como apoyo para el proyecto nuevo. La ayuda incluyó generación, revisión, estilos; no se limitó a dudas puntuales.
 
 ## 2. Modelo
 
@@ -14,7 +14,7 @@ Resumen de las solicitudes relevantes:
 
 - Pedí ayuda para cumplir las instrucciones del portafolio de forma sencilla y que me preguntaran los datos necesarios.
 - Pedí ayuda para redactar partes que no sabía cómo expresar, incluidas la dificultad técnica y la reflexión sobre IA.
-- Aclaré que este debía ser un mini portafolio nuevo y que el anterior podía servir de apoyo.
+- Aclaré que el portafolio anterior podía servir de apoyo.
 - Confirmé que me cuesta entender y explicar las rutas y los componentes con props.
 
 ## 4. Outputs
